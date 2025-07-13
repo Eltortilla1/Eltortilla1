@@ -38,21 +38,24 @@ Lua
 
 ## 📫 ¡Contáctame!
 
+## 📫 ¡Contáctame!
+
 <p align="center">
 
-  <!-- Botón Email -->
+  <!-- Email -->
   <a href="mailto:tortilladev1@gmail.com" title="Escríbeme un correo">
-    <img alt="📧 Email" src="https://img.shields.io/badge/📧%20Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-tortilladev1@gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
   </a>
 
-  <!-- Botón Perfil de Discord -->
+  <!-- Discord Perfil -->
   <a href="https://discord.com/users/1184951565480624212" title="Mi perfil de Discord">
-    <img alt="💬 Discord Perfil" src="https://img.shields.io/badge/💬%20el_tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
+    <img alt="Perfil de Discord" src="https://img.shields.io/badge/Discord-el__tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
   </a>
 
-  <!-- Botón Servidor Discord -->
+  <!-- Discord Server -->
   <a href="https://discord.gg/BVyafZaNdw" title="Únete a Tortilla Scripts">
-    <img alt="🍳 Tortilla Scripts Discord" src="https://img.shields.io/badge/🍳%20Tortilla%20Scripts-Servidor-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
+    <img alt="Tortilla Scripts Discord" src="https://img.shields.io/badge/Tortilla_Scripts-Servidor-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
   </a>
 
 </p>
+
