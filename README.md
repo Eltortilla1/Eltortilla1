@@ -1,46 +1,50 @@
 <p align="center">
-  <img src="assets/Logodev.png" alt="Logo Tortilla Scripts" width="140" />
+  <img src="assets/Logodev.png" width="160" alt="Logo Tortilla Scripts" />
 </p>
 
-
 <h1 align="center">
-  Eltortilla1 | Founder of <a href="https://discord.gg/5AbDDkduTr">Tortilla Scripts</a>
+  Eltortilla1 | Founder of <a href="https://discord.gg/BVyafZaNdw" target="_blank">Tortilla Scripts</a>
 </h1>
 
-<p align="center"><i>“No vine a ser una más. Vine a ser referente.”</i></p>
+<p align="center"><i>"No vine a ser una más. Vine a ser referente."</i></p>
+
+<p align="center">
+  <a href="mailto:tortilladev1@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/📧%20Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
+  </a>
+  <a href="https://discord.com/users/1184951565480624212" target="_blank">
+    <img alt="Discord el_tortilla1" src="https://img.shields.io/badge/💬%20Discord-el_tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
+  </a>
+  <a href="https://discord.gg/BVyafZaNdw" target="_blank">
+    <img alt="Tortilla Scripts Discord" src="https://img.shields.io/badge/🍳%20Tortilla_Scripts-Servidor-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
+  </a>
+</p>
 
 ---
 
-## 🧬 Sobre mí
-
-```diff
-+ 👋 Soy Juanmi (Eltortilla1), developer de 14 años con ética profesional y ambición de grandeza.
-+ 🚀 Fundador de Tortilla Scripts: calidad, modularidad y estética en cada línea de código.
-+ 🧠 Filosofía: no escribir scripts, construir sistemas que perduren.
-+ 🎯 Objetivo: ser referente en el mundo FiveM y más allá.
-
 ## 🛠️ Tecnologías y herramientas
 
-- 🧪 Lua
-- 🌐 HTML, CSS, JavaScript
-- 🛠️ Node.js
-- 💻 Git, GitHub
-- 🧠 Visual Studio Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,nodejs,git,github,vscode&theme=dark" />
+</p>
 
-⚙️ Proyectos destacados
+---
 
-🔥 Meta(LITE)
-Sistema de cocinado de metanfetamina modular y visual.
-Lua, HTML, JavaScript, CSS
-🚀 Workplus(LITE)
-Sistema de trabajo 100% modular y configurable.
-Lua
+## ⚙️ Proyectos destacados
 
-## 📫 ¡Contáctame!
+| Proyecto             | Descripción                                            | Tecnologías                         |
+|----------------------|--------------------------------------------------------|-------------------------------------|
+| 🔥 **Meta(LITE)**      | Sistema de cocinado de metanfetamina modular y visual. | `Lua`, `HTML`, `JavaScript`, `CSS`  |
+| 🚀 **Workplus(LITE)**  | Sistema de trabajo 100% modular y configurable.        | `Lua`, `HTML`, `JavaScript`, `CSS`  |
 
-[![Email](https://img.shields.io/badge/Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c)](mailto:tortilladev1@gmail.com)  
-[![Discord el_tortilla1](https://img.shields.io/badge/Discord-el_tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c)](https://discord.com/users/1184951565480624212)  
-[![Tortilla Scripts Discord](https://img.shields.io/badge/Tortilla_Scripts-Servidor-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c)](https://discord.gg/BVyafZaNdw)
+---
+
+## 📊 Estadísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eltortilla1&show_icons=true&theme=dark&icon_color=00ff9f" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eltortilla1&layout=compact&theme=dark&title_color=00ff9f&text_color=ffffff" alt="Top Languages" />
+</p>
 
 
 
