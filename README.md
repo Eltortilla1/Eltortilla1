@@ -1,27 +1,20 @@
+<!-- Logo -->
 <p align="center">
-  ![Logo Tortilla Scripts](assets/A1F8EDC9-D084-44C4-B23F-9983753EE6F0.png)
+  <img src="assets/A1F8EDC9-D084-44C4-B23F-9983753EE6F0.png" alt="Logo Tortilla Scripts" width="120" />
 </p>
 
-# Eltortilla1 | Founder of [Tortilla Scripts](https://github.com/TortillaScripts)
+<h1 align="center">
+  Eltortilla1 | Founder of <a href="https://discord.gg/5AbDDkduTr">Tortilla Scripts</a>
+</h1>
 
-> “No vine a ser una más. Vine a ser referente.”
-
-… _toda tu intro y proyectos_ …
+<p align="center"><i>“No vine a ser una más. Vine a ser referente.”</i></p>
 
 ---
 
-## 📫 ¡Contáctame!
+## 🧬 Sobre mí
 
-<p align="center">
-  [![📧 Email][badge-email]][mailto]
-  [![💬 Discord][badge-discord]][discord]
-  [![🍳 TS Discord][badge-ts]][ts-discord]
-</p>
-
-[badge-email]: https://img.shields.io/badge/📧%20Email-juanmideveloper%40gmail.com-brightgreen?style=for-the-badge&logo=gmail  
-[badge-discord]: https://img.shields.io/badge/💬%20Discord-Juanmi%23%230001-7289da?style=for-the-badge&logo=discord  
-[badge-ts]: https://img.shields.io/badge/🍳%20Tortilla_Scripts_Discord-Únete-blue?style=for-the-badge&logo=discord  
-
-[mailto]: mailto:juanmideveloper@gmail.com  
-[discord]: https://discord.com/users/1184951565480624212  
-[ts-discord]: https://discord.gg/5AbDDkduTr
+```diff
++ 👋 Soy Juanmi (Eltortilla1), developer de 14 años con ética profesional y ambición de grandeza.
++ 🚀 Fundador de Tortilla Scripts: calidad, modularidad y estética en cada línea de código.
++ 🧠 Filosofía: no escribir scripts, construir sistemas que perduren.
++ 🎯 Objetivo: ser referente en el mundo FiveM y más allá.
