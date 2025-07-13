@@ -22,10 +22,6 @@
 + 🧠 Filosofía: no escribir scripts, construir sistemas que perduren.
 + 🎯 Objetivo: ser referente en el mundo FiveM y más allá.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,nodejs,git,github,vscode&theme=dark" />
-</p>
-
 ⚙️ Proyectos destacados
 🔥 Meta(LITE)
 Sistema de cocinado de metanfetamina modular y visual.
@@ -38,16 +34,3 @@ Lua.
   <img src="https://github-readme-stats.vercel.app/api?username=Eltortilla1&show_icons=true&theme=dark&icon_color=00ff9f" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eltortilla1&layout=compact&theme=dark&title_color=00ff9f&text_color=ffffff" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <a href="mailto:juanmideveloper@gmail.com" title="Envíame un correo">
-    <img alt="📧 Email" src="https://img.shields.io/badge/📧%20Email-juanmideveloper%40gmail.com-brightgreen?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://discord.com/users/1184951565480624212" title="Mi perfil de Discord">
-    <img alt="💬 Discord" src="https://img.shields.io/badge/💬%20Discord-Juanmi%23%230001-7289da?style=for-the-badge&logo=discord"/>
-  </a>
-  <a href="https://discord.gg/5AbDDkduTr" title="Discord de Tortilla Scripts">
-    <img alt="🍳 Tortilla Scripts Discord" src="https://img.shields.io/badge/🍳%20Tortilla_Scripts_Discord-Únete-blue?style=for-the-badge&logo=discord"/>
-  </a>
-</p>
-```
