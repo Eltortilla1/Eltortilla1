@@ -38,8 +38,9 @@ Lua
 
 ## 📫 ¡Contáctame!
 
-[![Email](https://img.shields.io/badge/Email-tortilladev1@gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c)](mailto:tortilladev1@gmail.com)
-[![Discord el_tortilla1](https://img.shields.io/badge/Discord-el__tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c)](https://discord.com/users/1184951565480624212)
+[![Email](https://img.shields.io/badge/Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c)](mailto:tortilladev1@gmail.com)  
+[![Discord el_tortilla1](https://img.shields.io/badge/Discord-el_tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c)](https://discord.com/users/1184951565480624212)  
 [![Tortilla Scripts Discord](https://img.shields.io/badge/Tortilla_Scripts-Servidor-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c)](https://discord.gg/BVyafZaNdw)
+
 
 
