@@ -25,7 +25,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,nodejs,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,qbcore,javascript,html,css,nodejs,vscode,esx&theme=dark" alt="Tecnologías y herramientas" />
 </p>
 
 ---
@@ -36,15 +36,4 @@
 |----------------------|--------------------------------------------------------|-------------------------------------|
 | 🔥 **Meta(LITE)**      | Sistema de cocinado de metanfetamina modular y visual. | `Lua`, `HTML`, `JavaScript`, `CSS`  |
 | 🚀 **Workplus(LITE)**  | Sistema de trabajo 100% modular y configurable.        | `Lua`, `HTML`, `JavaScript`, `CSS`  |
-
----
-
-## 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eltortilla1&show_icons=true&theme=dark&icon_color=00ff9f" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eltortilla1&layout=compact&theme=dark&title_color=00ff9f&text_color=ffffff" alt="Top Languages" />
-</p>
-
-
 
