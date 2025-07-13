@@ -14,7 +14,7 @@
 ## 🧬 Sobre mí
 
 ```diff
-+ 👋 Soy Juanmi (Eltortilla1), developer de 14 años con ética profesional y ambición de grandeza.
++ 👋 Soy Juanmi (Eltortilla1), developer con ética profesional y ambición de grandeza.
 + 🚀 Fundador de Tortilla Scripts: calidad, modularidad y estética en cada línea de código.
 + 🧠 Filosofía: no escribir scripts, construir sistemas que perduren.
 + 🎯 Objetivo: ser referente en el mundo FiveM y más allá.
