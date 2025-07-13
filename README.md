@@ -44,7 +44,7 @@ Para cualquier petición, contáctame en [tortilladev1@gmail.com](mailto:tortill
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,qbcore,javascript,html,css,nodejs,vscode,esx,lua,fivem&theme=dark" alt="Tecnologías y herramientas" />
+  <img src="https://skillicons.dev/icons?i=github,javascript,html,css,nodejs,vscode,lua&theme=dark" alt="Tecnologías y herramientas" />
 </p>
 
 ---
