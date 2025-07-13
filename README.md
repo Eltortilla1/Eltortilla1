@@ -22,11 +22,32 @@
 
 ---
 
+## 👤 Sobre mí
+
+Soy Juanmi, programador apasionado por la tecnología y la innovación. Mi meta es crear sistemas robustos y elegantes que transformen la experiencia de los usuarios.
+
+---
+
+## ⚙️ Proyectos y crecimiento
+
+Me encuentro trabajando en [Tortilla Scripts](https://discord.gg/BVyafZaNdw), pero estoy abierto a participar en otros proyectos. Ahora mismo busco crecer como desarrollador.  
+Para cualquier petición, contáctame en [tortilladev1@gmail.com](mailto:tortilladev1@gmail.com) o a mi [Discord](https://discord.com/users/1184951565480624212).
+
+---
+
+## 🚀 Disponibilidad
+
+**Abierto a colaboraciones y empleo.**
+
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,javascript,html,css,nodejs,vscode,lua&theme=dark" alt="Tecnologías y herramientas" />
+  <img src="https://skillicons.dev/icons?i=github,qbcore,javascript,html,css,nodejs,vscode,esx,lua,fivem&theme=dark" alt="Tecnologías y herramientas" />
 </p>
+
+---
 
 ## ⚙️ Proyectos destacados
 
@@ -35,4 +56,3 @@
 | 🔥 **Meta(LITE)**      | Sistema de cocinado de metanfetamina modular y visual. | `Lua`, `HTML`, `JavaScript`, `CSS`  |
 | 🚀 **Workplus(LITE)**  | Sistema de trabajo 100% modular y configurable.        | `Lua`, `HTML`, `JavaScript`, `CSS`  |
 
-<p align="center"><i>Trabajo de manera profesional, seria y constante.</i></p>
