@@ -18,3 +18,7 @@
 + 🚀 Fundador de Tortilla Scripts: calidad, modularidad y estética en cada línea de código.
 + 🧠 Filosofía: no escribir scripts, construir sistemas que perduren.
 + 🎯 Objetivo: ser referente en el mundo FiveM y más allá.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,nodejs,git,github,vscode&theme=dark" />
+</p>
