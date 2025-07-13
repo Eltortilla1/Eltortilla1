@@ -19,6 +19,10 @@
 + 🧠 Filosofía: no escribir scripts, construir sistemas que perduren.
 + 🎯 Objetivo: ser referente en el mundo FiveM y más allá.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,html,css,nodejs,git,github,vscode&theme=dark" />
-</p>
+## 🛠️ Tecnologías y herramientas
+
+- 🧪 Lua
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ Node.js
+- 💻 Git, GitHub
+- 🧠 Visual Studio Code
