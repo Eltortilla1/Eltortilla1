@@ -1,7 +1,7 @@
-<!-- LOGO -->
 <p align="center">
-  <img src="assets/A1F8EDC9-D084-44C4-B23F-9983753EE6F0.png" alt="Logo Tortilla Scripts" width="120" />
+  <img src="assets/Logodev.png" alt="Logo Tortilla Scripts" width="140" />
 </p>
+
 
 <h1 align="center">
   Eltortilla1 | Founder of <a href="https://discord.gg/5AbDDkduTr">Tortilla Scripts</a>
