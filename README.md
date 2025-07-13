@@ -46,13 +46,3 @@ Para cualquier petición, contáctame en [tortilladev1@gmail.com](mailto:tortill
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,javascript,html,css,nodejs,vscode,lua&theme=dark" alt="Tecnologías y herramientas" />
 </p>
-
----
-
-## ⚙️ Proyectos destacados
-
-| Proyecto             | Descripción                                            | Tecnologías                         |
-|----------------------|--------------------------------------------------------|-------------------------------------|
-| 🔥 **Meta(LITE)**      | Sistema de cocinado de metanfetamina modular y visual. | `Lua`, `HTML`, `JavaScript`, `CSS`  |
-| 🚀 **Workplus(LITE)**  | Sistema de trabajo 100% modular y configurable.        | `Lua`, `HTML`, `JavaScript`, `CSS`  |
-
