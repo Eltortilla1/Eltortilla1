@@ -8,6 +8,10 @@
 
 <p align="center"><i>"No vine a ser una más. Vine a ser referente."</i></p>
 
+---
+
+## 📫 Contacto
+
 <p align="center">
   <a href="mailto:tortilladev1@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/📧%20Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
@@ -44,5 +48,15 @@ Para cualquier petición, contáctame en [tortilladev1@gmail.com](mailto:tortill
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,javascript,html,css,nodejs,vscode,lua&theme=dark" alt="Tecnologías y herramientas" />
+  <img src="https://skillicons.dev/icons?i=github,javascript,html,css,nodejs,vscode,lua,fivem,esx,qbcore&theme=dark" alt="Tecnologías y herramientas" />
 </p>
+
+---
+
+## ⚙️ Proyectos destacados
+
+| Proyecto             | Descripción                                            | Tecnologías                         |
+|----------------------|--------------------------------------------------------|-------------------------------------|
+| 🔥 **Meta(LITE)**      | Sistema de cocinado de metanfetamina modular y visual. | `Lua`, `HTML`, `JavaScript`, `CSS`  |
+| 🚀 **Workplus(LITE)**  | Sistema de trabajo 100% modular y configurable.        | `Lua`, `HTML`, `JavaScript`, `CSS`  |
+
