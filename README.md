@@ -24,7 +24,7 @@
 
 ## 👤 Sobre mí
 
-Soy Juanmi, programador apasionado por la tecnología y la innovación. Mi meta es crear sistemas robustos y elegantes que transformen la experiencia de los usuarios.
+Soy Tortilla, programador apasionado por la tecnología y la innovación. Mi meta es crear sistemas robustos y elegantes que transformen la experiencia de los usuarios.
 
 ---
 
