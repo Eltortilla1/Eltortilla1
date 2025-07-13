@@ -27,7 +27,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,javascript,html,css,nodejs,vscode,lua&theme=dark" alt="Tecnologías y herramientas" />
 </p>
----
 
 ## ⚙️ Proyectos destacados
 
