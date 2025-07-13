@@ -35,3 +35,4 @@
 | 🔥 **Meta(LITE)**      | Sistema de cocinado de metanfetamina modular y visual. | `Lua`, `HTML`, `JavaScript`, `CSS`  |
 | 🚀 **Workplus(LITE)**  | Sistema de trabajo 100% modular y configurable.        | `Lua`, `HTML`, `JavaScript`, `CSS`  |
 
+<p align="center"><i>"Trabajo de manera profesional, seria y constante."</i></p>
