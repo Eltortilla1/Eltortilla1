@@ -10,28 +10,19 @@
 
 ---
 
-<div align="center">
+## 📫 Contacto
 
-<a href="mailto:tortilladev1@gmail.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/📧%20Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
-</a>
-<a href="https://discord.com/users/1184951565480624212" target="_blank">
-  <img alt="Discord el_tortilla1" src="https://img.shields.io/badge/💬%20Discord-el_tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
-</a>
-<a href="https://discord.gg/BVyafZaNdw" target="_blank">
-  <img alt="Tortilla Scripts Discord" src="https://img.shields.io/badge/🍳%20Tortilla_Scripts-Servidor-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
-</a>
-
-</div>
-
----
-
-## 👤 Sobre mí
-
-```diff
-+ Soy Tortilla, programador apasionado por la tecnología y la innovación.
-+ Mi meta es crear sistemas robustos y elegantes que transformen la experiencia de los usuarios.
-
+<p align="center">
+  <a href="mailto:tortilladev1@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/📧%20Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
+  </a>
+  <a href="https://discord.com/users/1184951565480624212" target="_blank">
+    <img alt="Discord el_tortilla1" src="https://img.shields.io/badge/💬%20Discord-el_tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
+  </a>
+  <a href="https://discord.gg/BVyafZaNdw" target="_blank">
+    <img alt="Tortilla Scripts Discord" src="https://img.shields.io/badge/🍳%20Tortilla_Scripts-Servidor-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
+  </a>
+</p>
 
 ---
 
