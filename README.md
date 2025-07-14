@@ -10,8 +10,6 @@
 
 ---
 
-## 📫 Contacto
-
 <p align="center">
   <a href="mailto:tortilladev1@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/📧%20Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
