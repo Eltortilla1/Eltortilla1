@@ -6,7 +6,7 @@
   Eltortilla1 | Founder of <a href="https://discord.gg/BVyafZaNdw" target="_blank">Tortilla Scripts</a>
 </h1>
 
-<p align="center"><i>"No vine a ser una más. Vine a ser referente."</i></p>
+<p align="center"><i>"No vine a ser uno más. Vine a ser referente."</i></p>
 
 ---
 
