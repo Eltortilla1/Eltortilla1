@@ -1,50 +1,50 @@
-<p align="center">
-  <img src="assets/Logodev.png" width="160" alt="Logo Tortilla Scripts" />
-</p>
 
-<h1 align="center">
-  Eltortilla1 | Founder of <a href="https://discord.gg/BVyafZaNdw" target="_blank">Tortilla Scripts</a>
-</h1>
+  
 
-<p align="center"><i>"No vine a ser uno más. Vine a ser referente."</i></p>
 
----
 
-<p align="center">
-   <a href="mailto:tortilladev1@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/📧%20Email-tortilladev1%40gmail.com-00ff9f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1c1c" />
-  </a>
-  <a href="https://discord.com/users/1184951565480624212" target="_blank">
-    <img src="https://img.shields.io/badge/💬%20Discord-el_tortilla1-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
-  </a>
-  <a href="https://discord.gg/BVyafZaNdw" target="_blank">
-    <img alt="Tortilla Scripts Discord" src="https://img.shields.io/badge/🍳%20Tortilla_Scripts-Servidor-00ff9f?style=for-the-badge&logo=discord&logoColor=white&labelColor=1c1c1c" />
-  </a>
-</p>
+  Eltortilla1 | Founder of Tortilla Scripts
 
----
 
-## 👤 Sobre mí
 
-Soy Tortilla, programador apasionado por la tecnología y la innovación. Mi meta es crear sistemas robustos y elegantes que transformen la experiencia de los usuarios.
+  "No vine a ser uno más. Vine a redefinir el estándar."
 
----
 
-## ⚙️ Proyectos y crecimiento
 
-Me encuentro trabajando en [Tortilla Scripts](https://discord.gg/BVyafZaNdw), pero estoy abierto a participar en otros proyectos. Ahora mismo busco crecer como desarrollador.  
-Para cualquier petición, contáctame en [tortilladev1@gmail.com](mailto:tortilladev1@gmail.com) o a mi [Discord](https://discord.com/users/1184951565480624212).
 
----
+  
+    
+  
+  
+    
+  
+  
+    
+  
 
-## 🚀 Disponibilidad
 
-**Abierto a colaboraciones y empleo.**
 
----
+👾 Sobre mí
+Soy Tortilla, un arquitecto digital apasionado por forjar el futuro a través del código. Mi misión es construir soluciones innovadoras que fusionen funcionalidad y estética, llevando la experiencia del usuario a nuevos horizontes.
 
-## 🛠️ Tecnologías y herramientas
+🌌 Proyectos y visión
+Actualmente lidero Tortilla Scripts, un espacio para la creación de tecnología disruptiva. Estoy abierto a explorar nuevos proyectos que desafíen los límites de lo posible.Conéctate conmigo en tortilladev1@gmail.com o a través de Discord para propuestas y colaboraciones.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,javascript,html,css,nodejs,vscode,lua&theme=dark" alt="Tecnologías y herramientas" />
-</p>
+⚡ Disponibilidad
+Listo para unirme a misiones tecnológicas ambiciosas y oportunidades laborales.
+
+🛠️ Tecnologías y herramientas
+
+  
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto+Mono:ital@1&display=swap');
+  body {
+    background: linear-gradient(135deg, #0a192f 0%, #1c2526 100%);
+    color: #e6f1ff;
+  }
+  a:hover {
+    text-decoration: underline;
+    color: #00ff9f;
+  }
