@@ -6,7 +6,7 @@
   Eltortilla1 | Founder of <a href="https://discord.gg/BVyafZaNdw" target="_blank">Tortilla Scripts</a>
 </h1>
 
-<p align="center"><i>"No vine a ser uno más. Vine a ser referente."</i></p>
+<p align="center"><i>"No estoy aquí para seguir caminos, sino para trazar los míos."</i></p>
 
 ---
 
@@ -26,20 +26,22 @@
 
 ## 👤 Sobre mí
 
-Soy Tortilla, programador apasionado por la tecnología y la innovación. Mi meta es crear sistemas robustos y elegantes que transformen la experiencia de los usuarios.
+Soy Tortilla, un joven creador con visión futurista y pensamiento crítico. Me apasiona **transformar ideas en sistemas inteligentes**, optimizando experiencias y explorando cómo la tecnología puede generar impacto real. Cada proyecto es un laboratorio de innovación.
 
 ---
 
-## ⚙️ Proyectos y crecimiento
+## ⚙️ Proyectos y visión
 
-Me encuentro trabajando en [Tortilla Scripts](https://discord.gg/BVyafZaNdw), pero estoy abierto a participar en otros proyectos. Ahora mismo busco crecer como desarrollador.  
-Para cualquier petición, contáctame en [tortilladev1@gmail.com](mailto:tortilladev1@gmail.com) o a mi [Discord](https://discord.com/users/1184951565480624212).
+Actualmente lidero [Tortilla Scripts](https://discord.gg/BVyafZaNdw), donde **automatizamos flujos, integramos IA y creamos experiencias dinámicas** para comunidades digitales.  
+Siempre busco **colaborar en proyectos disruptivos** y aprender de desafíos que requieren creatividad y rigor técnico.  
+
+Contáctame en [tortilladev1@gmail.com](mailto:tortilladev1@gmail.com) o en [Discord](https://discord.com/users/1184951565480624212).
 
 ---
 
 ## 🚀 Disponibilidad
 
-**Abierto a colaboraciones y empleo.**
+**Abierto a colaboraciones, proyectos innovadores y oportunidades que desafíen el status quo.**
 
 ---
 
@@ -48,3 +50,9 @@ Para cualquier petición, contáctame en [tortilladev1@gmail.com](mailto:tortill
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,javascript,html,css,nodejs,vscode,lua&theme=dark" alt="Tecnologías y herramientas" />
 </p>
+
+---
+
+## 🔮 Filosofía de trabajo
+
+Creo que **la innovación nace de la curiosidad y la disciplina**. No busco simplemente seguir tendencias; busco crearlas. Mi objetivo: **generar soluciones que marquen la diferencia**, no solo en código, sino en la experiencia de quienes interactúan con mis proyectos.
