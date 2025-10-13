@@ -2,11 +2,8 @@
   <img src="assets/Logodev.png" width="160" alt="Logo Tortilla Scripts" />
 </p>
 
-# Eltortilla1
-
-<p align="center"><i>"No estoy aquí para seguir caminos, sino para trazar los míos."</i></p>
-
----
+<h1 align="center">Eltortilla1</h1>
+<p align="center"><i>Founder · Tortilla Scripts</i></p>
 
 <p align="center">
   <a href="mailto:tortilladev1@gmail.com" target="_blank">
@@ -24,21 +21,22 @@
 
 ## Sobre mí
 
-Soy Tortilla, creador y fundador de Tortilla Scripts. Diseño y desarrollo soluciones que integran automatización e inteligencia artificial para mejorar experiencias y procesos en comunidades digitales.
+Soy Tortilla: diseñador y desarrollador de soluciones enfocadas en automatización e inteligencia artificial para comunidades digitales. Combino pensamiento crítico y práctica técnica para llevar ideas desde el prototipo hasta sistemas fiables y escalables.
 
 ---
 
-## Proyectos y visión
+## Proyectos destacados
 
-Desarrollo proyectos centrados en automatización, bots y herramientas colaborativas para comunidades. Busco soluciones escalables, mantenibles y orientadas al usuario.
+- Tortilla Scripts — Bots y herramientas para comunidades (integraciones, automatización de flujos, moderación).
+- Integraciones personalizadas — Automatización de procesos y asistentes basados en IA para servidores y plataformas.
 
-Contacta: [tortilladev1@gmail.com](mailto:tortilladev1@gmail.com) • [Discord](https://discord.com/users/1184951565480624212)
+Para colaborar o ver proyectos activos, escríbeme: [tortilladev1@gmail.com](mailto:tortilladev1@gmail.com) • [Discord](https://discord.com/users/1184951565480624212)
 
 ---
 
 ## Disponibilidad
 
-Abierto a colaboraciones, asesorías técnicas y proyectos que busquen innovación práctica.
+Abierto a colaboraciones, consultorías técnicas y desarrollo de proyectos que busquen innovar y escalar.
 
 ---
 
@@ -52,8 +50,8 @@ Abierto a colaboraciones, asesorías técnicas y proyectos que busquen innovaci�
 
 ## Filosofía de trabajo
 
-Creo en la calidad técnica, la iteración rápida y el enfoque en la utilidad real. Trabajo con responsabilidad, comunicación clara y entrega orientada a resultados.
+Enfoque práctico: calidad de código, iteración rápida y documentación clara. Priorizo soluciones mantenibles y orientadas a resultados, con comunicación transparente durante todo el proceso.
 
 ---
 
-Si quieres colaborar o conocer mis proyectos, escríbeme.
+Si te interesa colaborar o tienes una propuesta concreta, escríbeme y lo revisamos. 🚀
