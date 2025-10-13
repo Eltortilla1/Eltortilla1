@@ -22,44 +22,38 @@
 
 ---
 
-## 👤 Sobre mí
+## Sobre mí
 
-Soy Tortilla, un creador con visión futurista y pensamiento crítico. Me apasiona transformar ideas en sistemas inteligentes: automatizo flujos, integro IA y diseño experiencias dinámicas para comunidades.
+Soy Tortilla, creador y fundador de Tortilla Scripts. Diseño y desarrollo soluciones que integran automatización e inteligencia artificial para mejorar experiencias y procesos en comunidades digitales.
 
 ---
 
-## ⚙️ Proyectos y visión
+## Proyectos y visión
 
-Lidero [Tortilla Scripts](https://discord.gg/BVyafZaNdw), donde buscamos soluciones prácticas y escalables que ayuden a comunidades a crecer. Siempre abierto a colaboraciones y retos que requieran creatividad técnica.
+Desarrollo proyectos centrados en automatización, bots y herramientas colaborativas para comunidades. Busco soluciones escalables, mantenibles y orientadas al usuario.
 
 Contacta: [tortilladev1@gmail.com](mailto:tortilladev1@gmail.com) • [Discord](https://discord.com/users/1184951565480624212)
 
 ---
 
-## 🚀 Disponibilidad
+## Disponibilidad
 
-**Abierto a colaboraciones, proyectos innovadores y oportunidades que desafíen el status quo.**
+Abierto a colaboraciones, asesorías técnicas y proyectos que busquen innovación práctica.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,javascript,html,css,nodejs,vscode,lua,linux,n8n,copilot&theme=light" alt="Tecnologías y herramientas" />
 </p>
 
-<p align="center">
-  <img alt="Copilot" src="https://img.shields.io/badge/Copilot-AI_Companion-8ed1ff?style=for-the-badge&logo=github-copilot&logoColor=white&labelColor=0b1221" />
-</p>
+---
 
-> Nota: He añadido GitHub Copilot como parte de las herramientas — me ayuda a iterar y prototipar código de forma más rápida.
+## Filosofía de trabajo
+
+Creo en la calidad técnica, la iteración rápida y el enfoque en la utilidad real. Trabajo con responsabilidad, comunicación clara y entrega orientada a resultados.
 
 ---
 
-## 🔮 Filosofía de trabajo
-
-Creo que la innovación nace de la curiosidad y la disciplina. Busco crear soluciones que generen impacto real: útiles, mantenibles y pensadas para la comunidad.
-
----
-
-Si quieres colaborar o tienes una idea, ¡hablemos! :rocket:
+Si quieres colaborar o conocer mis proyectos, escríbeme.
