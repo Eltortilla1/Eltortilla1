@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/Logodev.png" width="160" alt="Logo Tortilla Scripts" />
-</p>
-
 <h1 align="center">Eltortilla1</h1>
 <p align="center"><i>Founder · Tortilla Scripts</i></p>
 
