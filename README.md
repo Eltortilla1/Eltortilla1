@@ -39,7 +39,7 @@ Abierto a colaboraciones, consultorías técnicas y desarrollo de proyectos que 
 ## Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,javascript,html,css,nodejs,vscode,lua,linux&theme=light" alt="Tecnologías y herramientas" />
+  <img src="https://skillicons.dev/icons?i=git,github,javascript,html,css,nodejs,vscode,lua,linux,python&theme=light" alt="Tecnologías y herramientas" />
 </p>
 
 ---
